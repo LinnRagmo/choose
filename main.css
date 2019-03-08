@@ -30,4 +30,22 @@ input{
 
 .addOption{
   margin-top: 5px;
+  font-size: 10px;
+}
+
+.resultSection{
+  font-size: 20px;
+  font-weight: bold;
+  color:rgb(36, 114, 192);
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button{
+  color: rgb(36, 114, 192);
+  font-size: 15px;
+  font-weight: bold;
+  border-color: rgb(36, 114, 192);
 }
